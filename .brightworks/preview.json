@@ -1,0 +1,10 @@
+{
+  "frontend": {
+    "root": "package.json",
+    "type": "react-vite"
+  },
+  "backend": {
+    "root": "main.py",
+    "type": "fastapi"
+  }
+}
